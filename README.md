@@ -8,3 +8,10 @@
 
 ## Images
 ![image](https://www.cabq.gov/artsculture/biopark/images/penguin-cool-facts_penguin-group.jpg)
+
+## Emojis
+:bowtie:
+
+## Tables
+| Name | Adress |
+|---|--- |
