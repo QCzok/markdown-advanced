@@ -1,4 +1,4 @@
 # markdown-advanced
 
 ## Checkboxes
-- [ ] checkbox
+- [X] checkbox
