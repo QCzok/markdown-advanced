@@ -4,4 +4,4 @@
  - [X] checkbox
 
 ## External Link
-[My Link](www.google.com)
+[My Link](https://www.google.com/)
