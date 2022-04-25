@@ -1,4 +1,7 @@
 # markdown-advanced
 
 ## Checkboxes
-* - [X] checkbox
+ - [X] checkbox
+
+## External Link
+[My Link](www.google.com)
